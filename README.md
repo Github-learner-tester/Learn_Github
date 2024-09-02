@@ -4,3 +4,5 @@ This is my first Github repository
 Author - Pratik Pwar
 <br>
 Test Engineer
+<br>
+Manual tester
